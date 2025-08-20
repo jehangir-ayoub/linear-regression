@@ -113,12 +113,6 @@ Scatter plot of **actual salaries** vs **predicted regression line**.
 * Splitting dataset into training & testing.
 * Visualizing regression line vs actual data.
 
----
-
-##  Next Steps
-* Extend to multiple linear regression (multiple features).
-* Add performance metrics (MSE, R² score).
-* Deploy using Flask/FastAPI.
 
 ---
 
